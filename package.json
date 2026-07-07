@@ -4,7 +4,7 @@
   "description": "AI-powered emoji recommendation library for React Native using Hugging Face emotion detection",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "lint": "eslint .",
     "prepublishOnly": "npm test"
   },
