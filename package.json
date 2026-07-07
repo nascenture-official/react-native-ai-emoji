@@ -1,0 +1,52 @@
+{
+  "name": "react-native-ai-emoji",
+  "version": "1.0.0",
+  "description": "AI-powered emoji recommendation library for React Native using Hugging Face emotion detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": [
+    "react-native",
+    "ai",
+    "emoji",
+    "huggingface",
+    "emotion-detection",
+    "nlp",
+    "machine-learning",
+    "sentiment-analysis"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-native-ai-emoji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/react-native-ai-emoji/issues"
+  },
+  "homepage": "https://github.com/yourusername/react-native-ai-emoji#readme",
+  "peerDependencies": {
+    "react-native": ">=0.70.0"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.20.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "@babel/core": "^7.20.0",
+    "@babel/preset-env": "^7.20.0",
+    "eslint": "^8.20.0",
+    "eslint-plugin-react-native": "^4.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": true,
+    "coverageDirectory": "coverage",
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ]
+  }
+}

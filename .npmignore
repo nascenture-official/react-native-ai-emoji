@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+.idea/
+.vscode/
+*.log
+*.test.js
+*.spec.js
+tests/
+example/
+.git/
+.github/
+.nyc_output/

@@ -1,0 +1,16 @@
+node_modules/
+coverage/
+.DS_Store
+.log
+.env
+.pem
+npm-debug.log
+yarn-debug.log
+yarn-error.log*
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tgz
+dist/
+.nyc_output/
