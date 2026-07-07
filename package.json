@@ -18,16 +18,12 @@
     "machine-learning",
     "sentiment-analysis"
   ],
-  "author": "Your Name <your.email@example.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/react-native-ai-emoji.git"
+    "url": "https://github.com/nascenture-official/react-native-ai-emoji.git"
   },
-  "bugs": {
-    "url": "https://github.com/yourusername/react-native-ai-emoji/issues"
-  },
-  "homepage": "https://github.com/yourusername/react-native-ai-emoji#readme",
+  "homepage": "https://github.com/nascenture-official/react-native-ai-emoji#readme",
   "peerDependencies": {
     "react-native": ">=0.70.0"
   },
